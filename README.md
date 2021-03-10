@@ -8,6 +8,8 @@ For the last part: [`search-index`](https://github.com/fergiemcdowall/search-ind
 ## Functions to be
 
 ### service worker - indexWorker.js
+* [ ] Upload JSON file
+* [ ] Fetch JSON file from URL
 * [ ] Index an array of objects
 * [ ] Delete an index
 * [ ] Export an index
