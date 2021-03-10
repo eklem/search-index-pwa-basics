@@ -7,17 +7,17 @@ For the last part: [`search-index`](https://github.com/fergiemcdowall/search-ind
 
 ## Functions to be
 
-### service worker
+### service worker - indexWorker.js
 * [ ] Index an array of objects
 * [ ] Delete an index
 * [ ] Export an index
 * [ ] Status communication to application
 
-### shared worker
+### shared worker - queryWorker.js
 * [ ] Query search engine (OR)
 * [ ] Query search engine (AND)
 * [ ] Query suggestion
 * [ ] Show filters
 * [ ] Filter on filters
 
-Ideas, question and PR's are more than welcome =)
+Ideas, question and PR's (when that falls naturally) are more than welcome =)
