@@ -8,10 +8,10 @@ For the last part: `Search-index` is not an opinionated search engine library. I
 ## Functions to be
 
 ### service worker
-* [ ] Index an array of objects
-* [ ] Delete an index
-* [ ] Export an index
-* [ ] Status communication to application
+* [ ] Index an array of objects
+* [ ] Delete an index
+* [ ] Export an index
+* [ ] Status communication to application
 
 ### shared worker
 * [ ] Query search engine (OR)
