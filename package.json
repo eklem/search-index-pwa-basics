@@ -1,0 +1,25 @@
+{
+  "name": "search-index-pwa-basics",
+  "version": "0.0.1",
+  "description": "Service worker, shared worker and some other stuff to help create PWAs based on search-index.",
+  "browser": "exampleApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eklem/search-index-pwa-basics.git"
+  },
+  "keywords": [
+    "pwa",
+    "search-engine",
+    "search",
+    "offline-first"
+  ],
+  "author": "Espen Klem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eklem/search-index-pwa-basics/issues"
+  },
+  "homepage": "https://github.com/eklem/search-index-pwa-basics#readme"
+}
